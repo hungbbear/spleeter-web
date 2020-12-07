@@ -198,3 +198,4 @@ If you encounter issues relating to the database, you may need to delete the dat
 
 ## LICENSE
 [MIT](./LICENSE)
+# spleeter-web

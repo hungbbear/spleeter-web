@@ -24,7 +24,7 @@ django-webpack-loader==0.7.0
 djangorestframework==3.12.1
 ffmpeg-python==0.2.0
 future==0.18.2
-gast==0.2.2
+gast==0.3.3
 google-api-core==1.22.2
 google-api-python-client==1.12.3
 google-auth==1.22.0
@@ -44,7 +44,7 @@ joblib==0.15.1
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
 lazy-object-proxy==1.4.3
-librosa==0.7.2
+librosa==0.8.0
 llvmlite==0.31.0
 Markdown==3.2.2
 mccabe==0.6.1
@@ -55,7 +55,7 @@ numba==0.48.0
 numpy==1.18.5
 oauthlib==3.1.0
 opt-einsum==3.2.1
-pandas==0.25.1
+pandas==1.1.2
 protobuf==3.13.0
 psycopg2==2.8.6
 pyasn1==0.4.8
@@ -77,11 +77,11 @@ scikit-learn==0.23.2
 scipy==1.4.1
 six==1.15.0
 SoundFile==0.10.3.post1
--e git+https://github.com/deezer/spleeter.git@e6aeaa117967409fdf05ba5bafe174ec62ea3f15#egg=spleeter
+-e git+https://github.com/deezer/spleeter.git#egg=spleeter
 sqlparse==0.3.1
-tensorboard==1.15.0
-tensorflow==1.15.4
-tensorflow-estimator==1.15.1
+tensorboard==2.3.0
+tensorflow==2.3.0
+tensorflow-estimator==2.3.0
 termcolor==1.1.0
 threadpoolctl==2.1.0
 toml==0.10.1
@@ -94,6 +94,6 @@ whitenoise==5.2.0
 wrapt==1.12.1
 yapf==0.30.0
 yarl==1.6.0
--e git+https://github.com/JeffreyCA/youtube-dl.git@3afecd1a8c3c4371369984137389d580210c3d15#egg=youtube_dl
+-e git+https://github.com/ytdl-org/youtube-dl.git#egg=youtube_dl
 youtube-title-parse==1.0.0
 zipp==3.2.0
